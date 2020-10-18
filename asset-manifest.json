@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/starmap-web/static/css/main.a414de92.chunk.css",
-    "main.js": "/starmap-web/static/js/main.5df1f447.chunk.js",
-    "main.js.map": "/starmap-web/static/js/main.5df1f447.chunk.js.map",
-    "runtime-main.js": "/starmap-web/static/js/runtime-main.09bceb1c.js",
-    "runtime-main.js.map": "/starmap-web/static/js/runtime-main.09bceb1c.js.map",
-    "static/js/2.d09dcff9.chunk.js": "/starmap-web/static/js/2.d09dcff9.chunk.js",
-    "static/js/2.d09dcff9.chunk.js.map": "/starmap-web/static/js/2.d09dcff9.chunk.js.map",
+    "main.js": "/starmap-web/static/js/main.8d61a88e.chunk.js",
+    "main.js.map": "/starmap-web/static/js/main.8d61a88e.chunk.js.map",
+    "runtime-main.js": "/starmap-web/static/js/runtime-main.99f350e9.js",
+    "runtime-main.js.map": "/starmap-web/static/js/runtime-main.99f350e9.js.map",
+    "static/js/2.4df28a38.chunk.js": "/starmap-web/static/js/2.4df28a38.chunk.js",
+    "static/js/2.4df28a38.chunk.js.map": "/starmap-web/static/js/2.4df28a38.chunk.js.map",
     "index.html": "/starmap-web/index.html",
-    "precache-manifest.a3a4b1a69200a7df82156b5f55e5a69d.js": "/starmap-web/precache-manifest.a3a4b1a69200a7df82156b5f55e5a69d.js",
+    "precache-manifest.c70c862057803c3b48cf6777952dc670.js": "/starmap-web/precache-manifest.c70c862057803c3b48cf6777952dc670.js",
     "service-worker.js": "/starmap-web/service-worker.js",
     "static/css/main.a414de92.chunk.css.map": "/starmap-web/static/css/main.a414de92.chunk.css.map",
-    "static/js/2.d09dcff9.chunk.js.LICENSE.txt": "/starmap-web/static/js/2.d09dcff9.chunk.js.LICENSE.txt",
+    "static/js/2.4df28a38.chunk.js.LICENSE.txt": "/starmap-web/static/js/2.4df28a38.chunk.js.LICENSE.txt",
     "static/media/machine-learning.svg": "/starmap-web/static/media/machine-learning.f07e5eab.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09bceb1c.js",
-    "static/js/2.d09dcff9.chunk.js",
+    "static/js/runtime-main.99f350e9.js",
+    "static/js/2.4df28a38.chunk.js",
     "static/css/main.a414de92.chunk.css",
-    "static/js/main.5df1f447.chunk.js"
+    "static/js/main.8d61a88e.chunk.js"
   ]
 }
