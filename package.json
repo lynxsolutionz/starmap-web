@@ -1,6 +1,5 @@
 {
-  "homepage": "https://lynxsolutionz.github.io/starmap-web",
-  "name": "starmap-generator",
+  "homepage": "https://lynxsolutionz.github.io/starmap-web/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
