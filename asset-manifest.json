@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/starmap-web/static/css/main.a414de92.chunk.css",
-    "main.js": "/starmap-web/static/js/main.42c38531.chunk.js",
-    "main.js.map": "/starmap-web/static/js/main.42c38531.chunk.js.map",
+    "main.js": "/starmap-web/static/js/main.a903c5c0.chunk.js",
+    "main.js.map": "/starmap-web/static/js/main.a903c5c0.chunk.js.map",
     "runtime-main.js": "/starmap-web/static/js/runtime-main.99f350e9.js",
     "runtime-main.js.map": "/starmap-web/static/js/runtime-main.99f350e9.js.map",
     "static/js/2.06e46ee3.chunk.js": "/starmap-web/static/js/2.06e46ee3.chunk.js",
     "static/js/2.06e46ee3.chunk.js.map": "/starmap-web/static/js/2.06e46ee3.chunk.js.map",
     "index.html": "/starmap-web/index.html",
-    "precache-manifest.6b1dc0894b81ed13608c94e8a2eb8727.js": "/starmap-web/precache-manifest.6b1dc0894b81ed13608c94e8a2eb8727.js",
+    "precache-manifest.f3eff53391ee91b8e5fe1ea305a21b96.js": "/starmap-web/precache-manifest.f3eff53391ee91b8e5fe1ea305a21b96.js",
     "service-worker.js": "/starmap-web/service-worker.js",
     "static/css/main.a414de92.chunk.css.map": "/starmap-web/static/css/main.a414de92.chunk.css.map",
     "static/js/2.06e46ee3.chunk.js.LICENSE.txt": "/starmap-web/static/js/2.06e46ee3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.99f350e9.js",
     "static/js/2.06e46ee3.chunk.js",
     "static/css/main.a414de92.chunk.css",
-    "static/js/main.42c38531.chunk.js"
+    "static/js/main.a903c5c0.chunk.js"
   ]
 }
